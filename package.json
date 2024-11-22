@@ -4,7 +4,8 @@
   "description": "Une API RESTful et une application Web pour gérer des produits, construite avec Node.js, Express, MongoDB, et React.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -r ts-node src/server.ts"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +17,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.8.2",
     "swagger-ui-express": "^5.0.1",
+    "ts-node": "^10.9.2",
     "zod": "^3.23.8"
   },
   "devDependencies": {
@@ -26,7 +28,6 @@
     "@types/swagger-ui-express": "^4.1.7",
     "eslint": "^9.15.0",
     "globals": "^15.12.0",
-    "ts-node": "^10.9.2",
     "typescript": "^5.7.2",
     "typescript-eslint": "^8.15.0"
   }
