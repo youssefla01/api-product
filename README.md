@@ -39,8 +39,8 @@ Une API RESTful et une application Web pour gérer des produits, construite avec
 
 ### 2. Cloner le dépôt
 ```bash
-git clone https://github.com/votre-utilisateur/products-management-system.git
-cd products-management-system
+git clone https://github.com/youssefla01/api-product.git
+cd api-product
 
 ```
 ---
