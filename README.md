@@ -42,6 +42,7 @@ Une API RESTful et une application Web pour gérer des produits, construite avec
 git clone https://github.com/votre-utilisateur/products-management-system.git
 cd products-management-system
 
+```
 ---
 
 ### 3. Configuration des variables d'environnement
