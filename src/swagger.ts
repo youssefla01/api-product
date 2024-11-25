@@ -11,7 +11,7 @@ const swaggerDocument = {
     },
   ],
   paths: {
-    '/api/products': {
+    '/products': {
       get: {
         summary: 'Get all products',
         responses: {
@@ -77,7 +77,7 @@ const swaggerDocument = {
         },
       },
     },
-    '/api/products/{id}': {
+    '/products/{id}': {
       get: {
         summary: 'Get a product by ID',
         parameters: [

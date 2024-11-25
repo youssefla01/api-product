@@ -68,7 +68,7 @@ cd api-product
 
 ## 📜 API Endpoints
 
-### **Base URL** : `http://localhost:5000/api/products`
+### **Base URL** : `http://localhost:5000/products`
 
 | Méthode | Endpoint | Description                  |
 |---------|----------|------------------------------|
